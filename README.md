@@ -1,5 +1,5 @@
 # WAN Design for Multiple Office Connectivity
-![WAN Design Diagram](cisco Packet.png)
+![WAN Design Diagram](ciscoPacket.png)
 ## Overview
 
 This project demonstrates the design and implementation of a Wide Area Network (WAN) to connect multiple office locations. The project is built using Cisco Packet Tracer, a powerful network simulation tool, and includes various network devices and servers to simulate a real-world network environment.
